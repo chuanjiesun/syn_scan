@@ -1,4 +1,4 @@
-# SYN Scanner - Asynchronous TCP SYN Port Scanner IN GO | [简体中文](https://github.com/chuanjiesun/syn_scan/README_cn.md)
+# SYN Scanner - Asynchronous TCP SYN Port Scanner IN GO | [简体中文]([https://github.com/chuanjiesun/syn_scan/README_cn.md](https://github.com/chuanjiesun/syn_scan/blob/main/README_cn.md))
 
 *This code was created in 2019 while learning zmap network scanning techniques.*
 
